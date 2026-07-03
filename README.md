@@ -1,5 +1,9 @@
 # China A-Share LHB Analyzer · Claude / GPT / Gemini via OpenAI-Compatible API
 
+**中文说明 → [README.gitee.md](README.gitee.md)**（A股龙虎榜 · 智谱GLM / 千问 · OpenAI 兼容）
+
+> For personal learning and quant research only. Not investment advice. See [README.gitee.md](README.gitee.md) for the full Chinese disclaimer.
+
 Fetch **China A-share Dragon Tiger List (LHB / 龙虎榜)** with [akshare](https://github.com/akfamily/akshare), then summarize with **Claude**, **GPT**, or **Gemini** through one **OpenAI-compatible** endpoint.
 
 Keywords: `claude-opus-4-8` · `gpt-5.5` · `gemini-3.5-flash` · `OpenAI compatible` · `china stock` · `dragon tiger list` · `quant`
