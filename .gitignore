@@ -5,4 +5,5 @@ __pycache__/
 .venv/
 venv/
 docs/
+方案与思路.md
 .DS_Store
