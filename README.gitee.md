@@ -1,4 +1,6 @@
-# 薅羊毛 · A股龙虎榜 × 智谱GLM5.2 / 千问3.7 / DeepSeek · OpenAI 兼容
+# A股龙虎榜 × 智谱GLM5.2 / 千问3.7 / DeepSeek · OpenAI 兼容
+
+> **声明：** 本仓库仅供个人学习、量化研究与 OpenAI 兼容 API 接入测试使用。行情数据来自 akshare 等公开源，大模型输出仅供参考，**不构成任何投资建议**，请自行承担使用风险。
 
 用 **akshare** 免费拉 **A股龙虎榜**，再用 **智谱 GLM**、**千问 Qwen**、**DeepSeek** 等大模型一键总结。接口 **OpenAI 兼容**，国内直连，同一 Base URL 可切换 `gpt-5.5`、`claude-opus-4-8`、`gemini-3.5-flash` 等。
 
