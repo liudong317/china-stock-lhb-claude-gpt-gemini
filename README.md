@@ -2,7 +2,7 @@
 
 **中文说明 → [README.gitee.md](README.gitee.md)**（A股龙虎榜 · 智谱GLM / 千问 · OpenAI 兼容）
 
-> For personal learning and quant research only. Not investment advice. See [README.gitee.md](README.gitee.md) for the full Chinese disclaimer.
+> For personal learning, quant research, and API integration testing only — **not investment advice**.
 
 Fetch **China A-share Dragon Tiger List (LHB / 龙虎榜)** with [akshare](https://github.com/akfamily/akshare), then summarize with **Claude**, **GPT**, or **Gemini** through one **OpenAI-compatible** endpoint.
 
@@ -66,6 +66,18 @@ python analyze_lhb.py --date 2026-07-02
 python analyze_lhb.py --lang zh
 python analyze_lhb.py --top 15
 ```
+
+---
+
+## Disclaimer
+
+This repository is provided **for personal learning, quantitative research, and OpenAI-compatible API integration testing only**. It does **not** constitute investment, financial, or trading advice.
+
+- LLM-generated summaries may be incomplete or incorrect; do not rely on them for trading decisions.
+- [Qinghong API](https://www.qinghong.tech) is an independent third-party service — you must supply your own API key and accept their terms and pricing.
+- **Use at your own risk.** The authors assume no liability for losses or damages arising from use of this software.
+
+中文说明与完整声明 → [README.gitee.md](README.gitee.md)
 
 ---
 
