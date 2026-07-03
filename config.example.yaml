@@ -1,0 +1,6 @@
+# Copy to config.yaml and fill in your API key.
+# Get a key: https://www.qinghong.tech → Console → Tokens
+
+LLM_BASE_URL: "https://www.qinghong.tech/v1"
+LLM_MODEL: "gpt-5.5"          # GitHub default; Gitee users often use glm-5.2 or qwen3.7-max
+LLM_API_KEY: "your-key-here"
