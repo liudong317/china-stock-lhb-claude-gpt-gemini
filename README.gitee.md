@@ -69,3 +69,24 @@ python analyze_lhb.py --top 20 --lang zh
 ## 协议
 
 MIT — 见 [LICENSE](LICENSE)。
+
+---
+
+## 交流
+
+若你在用本项目做 A 股量化、龙虎榜数据分析或 OpenAI 兼容 API 接入，欢迎加入个人量化交流群（免费，约 100 人）。
+
+群内主要聊：数据接口、策略思路、部署踩坑、LLM 接入经验等。**仅供学习交流，不构成任何投资建议。**
+
+- 加微信：**ziyouxiaoqi123**（备注：**GitHub-LHB**）
+- 群二维码：
+
+![量化交流群二维码](./assets/wechat-group-qr.png)
+
+**相关链接（可选了解，不强推）：**
+- 晴红 60+ 平台 API Key 文档（飞书）：https://my.feishu.cn/wiki/T7XWwCxtIiOcLIkkXQbc5I1Tntc
+- 财经快讯 / 热榜 JSON API：https://oljdijncb6.apifox.cn/
+- 服务状态页：https://status.xiaobao317.site/
+- LLM 中转（OpenAI 兼容）：https://www.qinghong.tech/
+
+> 群内仅交流；API Key 请走闲鱼/淘宝正规渠道购买。
