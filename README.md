@@ -84,3 +84,24 @@ This repository is provided **for personal learning, quantitative research, and 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Community / 交流
+
+If you use this repo for **A-share quant research**, **LHB (Dragon Tiger List) analysis**, or **OpenAI-compatible API** integration — welcome to join our free quant community (~100 members).
+
+群内主要交流：数据接口用法、策略思路、部署踩坑、LLM 接入经验等。**仅供学习交流，不构成任何投资建议。**
+
+- WeChat / 微信：**ziyouxiaoqi123**（备注 / note：**GitHub-LHB**）
+- 或扫下方群二维码 / Scan the QR code below:
+
+![量化交流群二维码](./assets/wechat-group-qr.png)
+
+**相关链接（可选了解，不强推 / Optional links）：**
+- 晴红 60+ 平台 API Key 文档（飞书）：https://my.feishu.cn/wiki/T7XWwCxtIiOcLIkkXQbc5I1Tntc
+- 财经快讯 / 热榜 JSON API：https://oljdijncb6.apifox.cn/
+- 服务状态页：https://status.xiaobao317.site/
+- LLM 中转（OpenAI 兼容）：https://www.qinghong.tech/
+
+> 群内仅交流；API Key 请走闲鱼/淘宝正规渠道购买。
