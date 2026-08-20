@@ -87,6 +87,23 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
+
+---
+
+## Need live A-share market data? · A股行情 / 量化数据 API
+
+This demo pulls LHB via **akshare** (free, best-effort). If you need a **hosted JSON API** for quotes / daily bars / indices / limit-up / moneyflow / LHB / fundamentals (A-share + domestic futures, subject to your plan):
+
+| | Link |
+|---|------|
+| **Developer docs (Feishu)** | https://my.feishu.cn/wiki/WB5XwdSehi5Z3ikc6UfcgkyQnNd |
+| Quick probe | `GET /v1/cn/quote?symbols=600519,000001` (needs `X-API-Key`) |
+| Base (example) | `https://api.qinghong888.cc.cd` |
+
+Trial / purchase: add WeChat **ziyouxiaoqi123** (note **GitHub-LHB**) — free group for Q&A; keys via Xianyu/Taobao.
+
+**News / hot-rank for AI agents** (not quotes) → separate MVP: [finance-news-api-for-ai-agents](https://github.com/liudong317/finance-news-api-for-ai-agents)
+
 ## Community / 交流
 
 If you use this repo for **A-share quant research**, **LHB (Dragon Tiger List) analysis**, or **OpenAI-compatible API** integration — welcome to join our free quant community (~100 members).
@@ -99,9 +116,11 @@ If you use this repo for **A-share quant research**, **LHB (Dragon Tiger List) a
 ![量化交流群二维码](./assets/wechat-group-qr.png)
 
 **相关链接（可选了解，不强推 / Optional links）：**
-- 晴红 60+ 平台 API Key 文档（飞书）：https://my.feishu.cn/wiki/T7XWwCxtIiOcLIkkXQbc5I1Tntc
-- 财经快讯 / 热榜 JSON API：https://oljdijncb6.apifox.cn/
-- 服务状态页：https://status.xiaobao317.site/
-- LLM 中转（OpenAI 兼容）：https://www.qinghong.tech/
+- A股行情 / 量化 API（飞书）：https://my.feishu.cn/wiki/WB5XwdSehi5Z3ikc6UfcgkyQnNd
+- 智能体财经资讯 MVP 仓：https://github.com/liudong317/finance-news-api-for-ai-agents
+- 50+ 资讯飞书文档：https://my.feishu.cn/wiki/T7XWwCxtIiOcLIkkXQbc5I1Tntc
+- Apifox：https://oljdijncb6.apifox.cn/
+- 状态页：https://status.xiaobao317.site/
+- LLM 中转：https://www.qinghong.tech/
 
 > 群内仅交流；API Key 请走闲鱼/淘宝正规渠道购买。

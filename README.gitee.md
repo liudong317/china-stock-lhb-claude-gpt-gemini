@@ -72,6 +72,23 @@ MIT — 见 [LICENSE](LICENSE)。
 
 ---
 
+
+---
+
+## 需要托管的大 A 行情 / 量化数据 API？
+
+本仓库演示用 **akshare** 免费拉龙虎榜（尽力而为）。若你要**线上 JSON 接口**（报价 / 日 K / 指数 / 涨停 / 情绪 / 板块 / 盘中资金流 / 龙虎榜 / 基本面等，大 A + 国内期货，以开通为准）：
+
+| | 链接 |
+|---|------|
+| **开发者文档（飞书）** | https://my.feishu.cn/wiki/WB5XwdSehi5Z3ikc6UfcgkyQnNd |
+| 快速探测 | `GET /v1/cn/quote?symbols=600519,000001`（需 `X-API-Key`） |
+| 基址示例 | `https://api.qinghong888.cc.cd` |
+
+试用 / 购买：加微信 **ziyouxiaoqi123**（备注 **GitHub-LHB**）进免费交流群问链接；Key 走闲鱼/淘宝。
+
+**给智能体拉财经快讯 / 热榜**（不是行情）→ 新仓 MVP：[finance-news-api-for-ai-agents](https://github.com/liudong317/finance-news-api-for-ai-agents)
+
 ## 交流
 
 若你在用本项目做 A 股量化、龙虎榜数据分析或 OpenAI 兼容 API 接入，欢迎加入个人量化交流群（免费，约 100 人）。
@@ -84,9 +101,11 @@ MIT — 见 [LICENSE](LICENSE)。
 ![量化交流群二维码](./assets/wechat-group-qr.png)
 
 **相关链接（可选了解，不强推）：**
-- 晴红 60+ 平台 API Key 文档（飞书）：https://my.feishu.cn/wiki/T7XWwCxtIiOcLIkkXQbc5I1Tntc
-- 财经快讯 / 热榜 JSON API：https://oljdijncb6.apifox.cn/
-- 服务状态页：https://status.xiaobao317.site/
-- LLM 中转（OpenAI 兼容）：https://www.qinghong.tech/
+- A股行情 / 量化 API（飞书）：https://my.feishu.cn/wiki/WB5XwdSehi5Z3ikc6UfcgkyQnNd
+- 智能体财经资讯 MVP 仓：https://github.com/liudong317/finance-news-api-for-ai-agents
+- 50+ 资讯飞书文档：https://my.feishu.cn/wiki/T7XWwCxtIiOcLIkkXQbc5I1Tntc
+- Apifox：https://oljdijncb6.apifox.cn/
+- 状态页：https://status.xiaobao317.site/
+- LLM 中转：https://www.qinghong.tech/
 
 > 群内仅交流；API Key 请走闲鱼/淘宝正规渠道购买。
